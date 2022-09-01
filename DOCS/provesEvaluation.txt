@@ -1,0 +1,17 @@
+Prova 1:
+
+Descripció: Valorar una recomendación.
+
+Objetivos: Dados una recomendación hecha a un usuario y los valores reales que ha dado ese usuario a esos ítems.
+
+Driver: DriverEvaluation.
+
+Entrada: Prova_DriverEvaluation.txt
+
+Salida: DCG de la valoración.
+
+Resultado: ok.
+
+Opertativa: Se debe redirigir el input de la ejecución hacia el archivo "Prova_DriverEvaluation.txt"
+
+    También se puede ejecutar sin redirigir el input y siguiendo las ejecuciones que aparecen en consola.

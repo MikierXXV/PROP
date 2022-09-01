@@ -1,0 +1,32 @@
+Prova K-NN
+Descripció: En realitzar una recomanació a un usuari usant el content based filtering,
+            necessitem saber les similituds entre els ítems. Provem la classe K_NN.
+
+Objectius: avaluar el càlcul de similaritats entre items
+
+Altres elements integrats a la prova
+Drivers construïts i integrats per a la prova: DriverK_NN
+
+Entrada:
+        Enter (nombre d'items)
+        Enter (nombre de tags)
+        Conjunt de tags per a cada ítem
+
+Sortida:
+
+Resultat de la prova: ok
+
+Operativa:
+El driver per provar l'algorisme de K-NN funciona d'una manera molt intuitiva. El driver en tot moment
+escriu per pantalla l'entrada que espera, i el format en el que ho requereix. L'usuari s'encarrega d'introduir
+el nombre d'items que hi haurà el sistema i quantes tags tindran els ítems, i procedeix a introduir
+tots els ítems i les seves tags en el format demanat. Després, l'usuari introdueix quants usuaris hi haurà al
+sistema, i per a cada usuari, quants i quins items han valorat i quina valoració li han donat a cadascun.
+Un cop fet això, l'algorisme escriu la taula de similituds entre els ítems per pantalla i entra en el mode d'entrega
+de recomanacions, en el que l'usuari introdueix l'ID de l'usuari que vol una recomanació i quants ítems vol que hi
+apareguin en la recomanació. El programa finalitza quan l'usuari introdueix "end" en comptes d'un ID d'usuari o d'un
+nombre. S'adjunta un joc de proves que representa un cas senzill, que es pot calcular a mà fàcilment, per comprobar
+que el programa funciona correctament, anomenat JocDeProves_KNN.txt.
+A més, s'adjunten dos fitxers d'input pel driver, anomenats TestingFile1.txt i TestingFile2.txt.
+El primer dataset és un cas senzill, amb 5 ítems, 4 tags per ítem, i 3 usuaris, mentre que el segon dataset és més
+extens, amb 10 ítems, 6 tags per ítem i 5 usuaris.

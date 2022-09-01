@@ -1,0 +1,101 @@
+Per executar el joc de prova, s'ha de tenir el fitxer input en local i escriure la seguent comanda:
+make driver_slopeone < path/input_slopeone_driver_test.txt
+
+Prova 1
+Descripció: test desviació mitjana
+Objectius: provar el metode desviació mitjana de la classe slopeone
+Altres elements integrats a la prova:
+Drivers construïts i integrats per a la prova: Driverslopeone
+Entrada: input_slopeone_driver_test.txt
+Sortida: output_slopeone_driver_test.txt
+Resultat de la prova: ok
+Operativa: el driver es interactiu on tot moment et demana l'entrada de dades per a realitzar el test,
+            al joc de proves esta construit seguint les demandes de dades del driver:
+            -escollir prova desviació mitjana = 1
+            -llegir nombre usuaris
+            for(){
+                -llegir id usuari
+                -llegir n items valorats per l'usuari
+                for(){
+                    -llegir id item
+                    -llegir valoracio item
+                }
+            }
+
+Prova 2
+Descripció: test prediccio
+Objectius: provar el metode prediccio de la classe slopeone
+Altres elements integrats a la prova:
+Drivers construïts i integrats per a la prova: Driverslopeone
+Entrada: input_slopeone_driver_test.txt
+Sortida: output_slopeone_driver_test.txt
+Resultat de la prova: ok
+Operativa: el driver es interactiu on tot moment et demana l'entrada de dades per a realitzar el test,
+           al joc de proves esta construit seguint les demandes de dades del driver:
+           -escollir prova prediccio = 2
+           -llegir nombre usuaris
+           for(){
+               -llegir id usuari
+               -llegir n items valorats per l'usuari
+               for(){
+                   -llegir id item
+                   -llegir valoracio item
+               }
+            -llegir numero items valorat per lusuari a fer la prediccio
+                for(){
+                    -llegir id item
+                    -llegir valoracio item
+                }
+           }
+
+Prova 3
+Descripció: test SlopeOne
+Objectius: provar el metode central de la clase SlopeOne
+Altres elements integrats a la prova:
+Drivers construïts i integrats per a la prova: Driverslopeone
+Entrada: input_slopeone_driver_test.txt
+Sortida: output_slopeone_driver_test.txt
+Resultat de la prova: ok
+Operativa:  el driver es interactiu on tot moment et demana l'entrada de dades per a realitzar el test,
+                      al joc de proves esta construit seguint les demandes de dades del driver:
+                      -escollir prova SlopeOne = 3
+                      -llegir nombre usuaris
+                      for(){
+                          -llegir id usuari
+                          -llegir n items valorats per l'usuari
+                          for(){
+                              -llegir id item
+                              -llegir valoracio item
+                          }
+                       -llegir numero items valorat per lusuari a fer la prediccio
+                           for(){
+                               -llegir id item
+                               -llegir valoracio item
+                           }
+                      }
+
+Prova 4
+Descripció: SlopeOne per a n = 250
+Objectius: provar la classe per a n 250
+Altres elements integrats a la prova:
+Drivers construïts i integrats per a la prova: Driverslopeone
+Entrada: input_slopeone_driver_test.txt
+Sortida: output_slopeone_driver_test.txt
+Resultat de la prova: ok
+Operativa: el driver es interactiu on tot moment et demana l'entrada de dades per a realitzar el test,
+            -escollir prova SlopeOne n 250 = 4
+            -es pot escollir entre un csv predeterminat, opció 1 o un propi 2 on en aquest segon cas li passarem el path del csv en questio.
+            - llegir id del usuari al que volem fer la prediccio
+
+Prova 5
+Descripció: SlopeOne per a csv senser
+Objectius: provar la classe per a csv senser
+Altres elements integrats a la prova:
+Drivers construïts i integrats per a la prova: Driverslopeone
+Entrada: input_slopeone_driver_test.txt
+Sortida: output_slopeone_driver_test.txt
+Resultat de la prova: ok
+Operativa: el driver es interactiu on tot moment et demana l'entrada de dades per a realitzar el test,
+            -escollir prova SlopeOne csv = 5
+            -es pot escollir entre un csv predeterminat, opció 1 o un propi 2 on en aquest segon cas li passarem el path del csv en questio.
+            - llegir id del usuari al que volem fer la prediccio
