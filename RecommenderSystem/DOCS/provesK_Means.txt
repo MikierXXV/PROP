@@ -1,0 +1,56 @@
+Prova 1:
+
+Descripció: Función de similitud.
+
+Objetivos: Dados dos conjuntos de items valorados por dos usuarios calcular correctamente se similitud con el simil del coseno cuadrado.
+
+Driver: DriverK_Means.
+
+Entrada: Prova_DriverK_Means.txt
+
+Salida: Similitud de los usuarios.
+
+Resultado: ok.
+
+Opertativa: Se debe redirigir el input de la ejecución hacia el archivo "Prova_DriverK_Means.txt"
+
+    También se puede ejecutar sin redirigir el input y siguiendo las ejecuciones que aparecen en consola.
+
+
+
+Prova 2:
+
+Descripció: Función que comprueba si dos clusters son iguales.
+
+Objetivos: Dados dos clusters de usuarios indicar si son iguales o diferentes.
+
+Driver: DriverK_Means.
+
+Entrada: Prova_DriverK_Means.txt
+
+Salida: Si los clusters son iguales. No se consideran iguales si no estan en el mismo orden.
+
+Resultado: ok.
+
+Opertativa: Se debe redirigir el input de la ejecución hacia el archivo "Prova_DriverK_Means.txt"
+
+    También se puede ejecutar sin redirigir el input y siguiendo las ejecuciones que aparecen en consola.
+
+Prova 3:
+
+Descripció: Función de cálculo de los k clusters.
+
+Objetivos: Dados un conjunto de usuarios con los items que han valorado, calcular los k clusters.
+
+Driver: DriverK_Means.
+
+Entrada: Prova_DriverK_Means.txt
+
+Salida: Se muestran los k clusters.
+
+Resultado: ok.
+
+Opertativa: Se debe redirigir el input de la ejecución hacia el archivo "Prova_DriverK_Means.txt"
+
+    También se puede ejecutar sin redirigir el input y siguiendo las ejecuciones que aparecen en consola.
+

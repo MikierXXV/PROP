@@ -1,0 +1,19 @@
+Prova 1:
+
+Descripció: Hacer recomendación.
+
+Objetivos: Dados un conjunto de usuarios con los items que han valorado, dar las valoraciones esperadas del usuario elegido de los items que no ha valorado.
+
+Driver: DriverCollaborativeFiltering.
+
+Entrada: Prova_DriverCollaborativeFiltering.txt
+
+Salida: Valoraciones esperadas del usuario elegido de los ítems que no ha valorado.
+
+Resultado: ok.
+
+Opertativa: Se debe redirigir el input de la ejecución hacia el archivo "Prova_DriverCollaborativeFiltering.txt"
+
+    También se puede ejecutar sin redirigir el input y siguiendo las ejecuciones que aparecen en consola.
+
+

@@ -1,0 +1,158 @@
+Prova 1:
+
+Descripció: Cargar Datos, CSVparserItem.
+
+Objetivos: Realizar una correcta lectura del documento csv y formación de la estructura necessaria
+para la manipulación de datos.
+
+Driver: DriverCSVparserItem.
+
+Entrada: prova1item.csv, conjunto de 10 elementos de series para comprobar que se realiza el funcionamiento anterior.
+
+Salida: datos del csv pasados a una estructura para leer el contenido "content", una estructura "MapRatedata" para el preporcesado,
+ una lista con la cabecera del csv y una lista con los ids de los items.
+
+Resultado: ok.
+
+Opertativa:
+
+Antes de realizar el test es necesario, si no escoje las pruebas predefinidas, debe incluir el path del documento csv y que este sea del tipo items.csv.
+
+Una vez introducido sale un menú coon las instruciones que puede realizar. Además para realizar correctamente las operaciones siempre se debe usar este formato:
+
+Si la función requiere de parámetros únicos, no el el caso de listas por ejemplo, se debe mostrar 
+el número de la operación y seguidamente el parámetro o los varios que sean necesarios para esa
+función.
+
+Por ejemplo, para la operación "5) CSVparserItem(String path)" debe de ser: 5 "path"
+
+En el caso de 15) setHeader(List<String> header): 15 Intro (Después seguir los pasos).
+
+Atención con estas funcionalidades:
+
+17) setContent()");
+18) setMapRatedata(Map<Integer, List<Content>> mapRatedata)");
+
+Podemos decir que son prescindibles por el momento.
+
+
+
+
+Prova 2:
+
+Descripció: Cargar Datos, CSVparserItem.
+
+Objetivos: Realizar una correcta lectura del documento csv y formación de la estructura necessaria
+para la manipulación de datos.
+
+Driver: DriverCSVparserItem.
+
+Entrada: prova2item.csv, conjunto de 10 elementos aleatorios de series para comprobar que se realiza el funcionamiento anterior.
+
+Salida: datos del csv pasados a una estructura para leer el contenido "content", una estructura "MapRatedata" para el preporcesado,
+ una lista con la cabecera del csv y una lista con los ids de los items.
+
+Resultado: ok.
+
+Opertativa:
+
+Antes de realizar el test es necesario, si no escoje las pruebas predefinidas, debe incluir el path del documento csv y que este sea del tipo items.csv.
+
+Una vez introducido sale un menú coon las instruciones que puede realizar. Además para realizar correctamente las operaciones siempre se debe usar este formato:
+
+Si la función requiere de parámetros únicos, no el el caso de listas por ejemplo, se debe mostrar
+el número de la operación y seguidamente el parámetro o los varios que sean necesarios para esa
+función.
+
+Por ejemplo, para la operación "5) CSVparserItem(String path)" debe de ser: 5 "path"
+
+En el caso de 15) setHeader(List<String> header): 15 Intro (Después seguir los pasos).
+
+Atención con estas funcionalidades:
+
+17) setContent()");
+18) setMapRatedata(Map<Integer, List<Content>> mapRatedata)");
+
+Podemos decir que son prescindibles por el momento.
+
+
+
+
+Prova 3:
+
+Descripció: Cargar Datos, CSVparserItem.
+
+Objetivos: Realizar una correcta lectura del documento csv y formación de la estructura necessaria
+para la manipulación de datos.
+
+Driver: DriverCSVparserItem.
+
+Entrada: prova3item.csv, conjunto de 50 elementos de series para comprobar que se realiza el funcionamiento anterior.
+Incluimos casillas "vacias" para ver el funcionamiento.
+
+Salida: datos del csv pasados a una estructura para leer el contenido "content", una estructura "MapRatedata" para el preporcesado,
+una lista con la cabecera del csv y una lista con los ids de los items.
+
+Resultado: ok.
+
+Opertativa:
+
+Antes de realizar el test es necesario, si no escoje las pruebas predefinidas, debe incluir el path del documento csv y que este sea del tipo items.csv.
+
+Una vez introducido sale un menú coon las instruciones que puede realizar. Además para realizar correctamente las operaciones siempre se debe usar este formato:
+
+Si la función requiere de parámetros únicos, no el el caso de listas por ejemplo, se debe mostrar
+el número de la operación y seguidamente el parámetro o los varios que sean necesarios para esa
+función.
+
+Por ejemplo, para la operación "5) CSVparserItem(String path)" debe de ser: 5 "path"
+
+En el caso de 15) setHeader(List<String> header): 15 Intro (Después seguir los pasos).
+
+Atención con estas funcionalidades:
+
+17) setContent()");
+18) setMapRatedata(Map<Integer, List<Content>> mapRatedata)");
+
+Podemos decir que son prescindibles por el momento.
+
+
+
+
+Prova 4:
+
+Descripció: Cargar Datos, CSVparserItem.
+
+Objetivos: Realizar una correcta lectura del documento csv y formación de la estructura necessaria
+para la manipulación de datos.
+
+Driver: DriverCSVparserItem.
+
+Entrada: prova4item.csv, conjunto de 50 elementos aleatorios de series para comprobar que se realiza el funcionamiento anterior.
+Incluimos casillas "vacias" para ver el funcionamiento.
+
+Salida: datos del csv pasados a una estructura para leer el contenido "content", una estructura "MapRatedata" para el preporcesado,
+una lista con la cabecera del csv y una lista con los ids de los items.
+
+Resultado: ok.
+
+Opertativa:
+
+Antes de realizar el test es necesario, si no escoje las pruebas predefinidas, debe incluir el path del documento csv y que este sea del tipo items.csv.
+
+Una vez introducido sale un menú coon las instruciones que puede realizar. Además para realizar correctamente las operaciones siempre se debe usar este formato:
+
+Si la función requiere de parámetros únicos, no el el caso de listas por ejemplo, se debe mostrar
+el número de la operación y seguidamente el parámetro o los varios que sean necesarios para esa
+función.
+
+Por ejemplo, para la operación "5) CSVparserItem(String path)" debe de ser: 5 "path"
+
+En el caso de 15) setHeader(List<String> header): 15 Intro (Después seguir los pasos).
+
+Atención con estas funcionalidades:
+
+17) setContent()");
+18) setMapRatedata(Map<Integer, List<Content>> mapRatedata)");
+
+Podemos decir que son prescindibles por el momento.

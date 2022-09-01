@@ -1,0 +1,152 @@
+Prova 1:
+
+Descripció: Cargar Datos, CSVparserRate.
+
+Objetivos: Realizar una correcta lectura del documento csv y formación de la estructura necessaria
+para la manipulación de datos.
+
+Driver: DriverCSVparserRate.
+
+Entrada: prova1item.csv, conjunto de 7 elementos aleatorios para comprobar que se realiza el funcionamiento anterior.
+Tenemos en cuenta el formato de las columnas como userid, itemid y rating.
+
+Salida: datos del csv pasados a una estructura para leer el contenido "content",
+una estructura "MapRate" para el preporcesado y una lista con la cabecera del csv.
+
+Resultado: ok.
+
+Opertativa:
+
+Sale un menú con las instruciones que puede realizar. Además para realizar correctamente las operaciones siempre se debe realizar en este formato:
+
+Si la función requiere de parámetros únicos, no en el caso de listas por ejemplo, se debe mostrar
+el número de la operación y seguidamente el parámetro o los varios que sean necesarios para esa
+función.
+
+Por ejemplo, para la operación "5) CSVparserRate(String path)" debe de ser: 5 "path"
+
+En el caso de 14) setHeader(List<String> header): 14 Enter (Después seguir los pasos).
+
+Atención con estas funcionalidades:
+
+16) setContent()");
+17) setMapRate(Map<Integer, Map<Integer, Float>> mapRate)");
+
+Podemos decir que son prescindibles por el momento.
+
+
+
+
+Prova 2:
+
+Descripció: Cargar Datos, CSVparserRate.
+
+Objetivos: Realizar una correcta lectura del documento csv y formación de la estructura necessaria
+para la manipulación de datos.
+
+Driver: DriverCSVparserRate.
+
+Entrada: prova2item.csv, conjunto de 7 elementos aleatorios para comprobar que se realiza el funcionamiento anterior.
+Tenemos en cuenta el formato de las columnas como itemid, userid y rating.
+
+Salida: datos del csv pasados a una estructura para leer el contenido "content",
+una estructura "MapRate" para el preporcesado y una lista con la cabecera del csv.
+
+Resultado: ok.
+
+Opertativa:
+
+Sale un menú con las instruciones que puede realizar. Además para realizar correctamente las operaciones siempre se debe realizar en este formato:
+
+Si la función requiere de parámetros únicos, no en el caso de listas por ejemplo, se debe mostrar
+el número de la operación y seguidamente el parámetro o los varios que sean necesarios para esa
+función.
+
+Por ejemplo, para la operación "5) CSVparserRate(String path)" debe de ser: 5 "path"
+
+En el caso de 14) setHeader(List<String> header): 14 Enter (Después seguir los pasos).
+
+Atención con estas funcionalidades:
+
+16) setContent()");
+17) setMapRate(Map<Integer, Map<Integer, Float>> mapRate)");
+
+Podemos decir que son prescindibles por el momento.
+
+
+
+
+Prova 3:
+
+Descripció: Cargar Datos, CSVparserRate.
+
+Objetivos: Realizar una correcta lectura del documento csv y formación de la estructura necessaria
+para la manipulación de datos.
+
+Driver: DriverCSVparserRate.
+
+Entrada: prova3item.csv, conjunto de 100 elementos aleatorios para comprobar que se realiza el funcionamiento anterior.
+Tenemos en cuenta el formato de las columnas como userid, itemid y rating.
+
+Salida: datos del csv pasados a una estructura para leer el contenido "content",
+una estructura "MapRate" para el preporcesado y una lista con la cabecera del csv.
+
+Resultado: ok.
+
+Opertativa:
+
+Sale un menú con las instruciones que puede realizar. Además para realizar correctamente las operaciones siempre se debe realizar en este formato:
+
+Si la función requiere de parámetros únicos, no en el caso de listas por ejemplo, se debe mostrar
+el número de la operación y seguidamente el parámetro o los varios que sean necesarios para esa
+función.
+
+Por ejemplo, para la operación "5) CSVparserRate(String path)" debe de ser: 5 "path"
+
+En el caso de 14) setHeader(List<String> header): 14 Enter (Después seguir los pasos).
+
+Atención con estas funcionalidades:
+
+16) setContent()");
+17) setMapRate(Map<Integer, Map<Integer, Float>> mapRate)");
+
+Podemos decir que son prescindibles por el momento.
+
+
+
+
+Prova 4:
+
+Descripció: Cargar Datos, CSVparserRate.
+
+Objetivos: Realizar una correcta lectura del documento csv y formación de la estructura necessaria
+para la manipulación de datos.
+
+Driver: DriverCSVparserRate.
+
+Entrada: prova1item.csv, conjunto de 100 elementos aleatorios para comprobar que se realiza el funcionamiento anterior.
+Tenemos en cuenta el formato de las columnas como itemid, userid y rating.
+
+Salida: datos del csv pasados a una estructura para leer el contenido "content",
+una estructura "MapRate" para el preporcesado y una lista con la cabecera del csv.
+
+Resultado: ok.
+
+Opertativa:
+
+Sale un menú con las instruciones que puede realizar. Además para realizar correctamente las operaciones siempre se debe realizar en este formato:
+
+Si la función requiere de parámetros únicos, no en el caso de listas por ejemplo, se debe mostrar
+el número de la operación y seguidamente el parámetro o los varios que sean necesarios para esa
+función.
+
+Por ejemplo, para la operación "5) CSVparserRate(String path)" debe de ser: 5 "path"
+
+En el caso de 14) setHeader(List<String> header): 14 Enter (Después seguir los pasos).
+
+Atención con estas funcionalidades:
+
+16) setContent()");
+17) setMapRate(Map<Integer, Map<Integer, Float>> mapRate)");
+
+Podemos decir que son prescindibles por el momento.

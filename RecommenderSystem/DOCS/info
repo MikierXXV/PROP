@@ -1,0 +1,10 @@
+Els documents ja descrits en el contingut de l’entrega. Aquest directori no
+conté cap codi
+
+Documentación: el nombre puede ser "doc" o similares; ha de contener
+  todos los materiales (manuales, diagramas, ejemplos de datos, etc)
+  que se piden en la normativa; la parte de Doxygen NO es opcional, y
+  ha de estar en una subcarpeta llamada "Doxygen"; recordad que cada
+  clase ha de tener un único autor, reflejado en dicha documentación,
+  aunque podemos negociar casos excepcionales en slack (no por
+  email). Ved más detalles en el pdf adjunto.
