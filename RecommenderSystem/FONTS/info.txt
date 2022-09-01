@@ -1,0 +1,4 @@
+Classes implementades per l’equip fins al moment (incloent-hi stubs i 
+dominio.controladores). Els subdirectoris han de seguir l’estructura de packages, perquè el codi
+sigui recompilable directament. S’ha d’incloure un fitxer de comandes (.bat, .sh o 
+makefile) amb les opcions per compilar els dominio.controladores.
