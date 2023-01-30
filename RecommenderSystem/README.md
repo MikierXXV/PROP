@@ -1,9 +1,13 @@
 
-##Integrants del grup
-- Miguel
-- Uri
-- Marc
-- Manel
+## Integrants del grup
+
+|  Name   | GitHub username |
+|:-------:|:---------------:|
+|  Oriol  |    OriJari      | 
+|  Marc   |                 |
+|  Manel  |     LIL3mon     |
+|  Miguel |    MikierXXV    |
+
 
 FONTS -> src 
 
